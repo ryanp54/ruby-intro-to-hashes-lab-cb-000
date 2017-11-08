@@ -1,5 +1,5 @@
 def new_hash(k, v)
-	{k: v}
+	{}
 end
 
 def actor(k, v)
