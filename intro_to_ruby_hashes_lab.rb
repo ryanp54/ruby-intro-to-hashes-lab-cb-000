@@ -1,9 +1,9 @@
-def new_hash(k, v)
+def new_hash()
 	{}
 end
 
-def actor(k, v)
-	{k: v}
+def actor()
+	{name: "Dwayne The Rock Johnson"}
 
 end
 
