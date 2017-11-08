@@ -1,8 +1,9 @@
-def new_hash
-
+def new_hash(k, v)
+	{k: v}
 end
 
-def actor
+def actor(k, v)
+	{k: v}
 
 end
 
